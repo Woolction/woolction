@@ -1,38 +1,38 @@
 ## About Me:
 
-I am a Unity game developer with 1 year of experience.
+I am a `C#` developer working across game development `Unity`, backend systems `ASP.NET Core`, and low-level programming.
+I focus on performance-oriented design, custom architectures, and building systems from the ground up.
+I enjoy working both at a high level (gameplay, APIs) and low level (memory, data structures, engine systems).
 
-I work confidently with C# and Unity, applying architectural approaches (ECS, MVP) and design patterns such as:
+### Game Development (Unity)
+- **Architecture:** ECS-style design, MVP, Clean Architecture principles
+- **design Patterns:**
+Singleton, Factory, Observer, State, Strategy, Object Pool, Event-based systems, DI, Service Locator
+- **Engine Systems:** ScriptableObjects, Addressables, AssetBundles, NetCode, DOTS
+- **Tools:** DOTween, UniTask, Shader Graph
 
-[Singleton, Factory, Observer, State, Strategy, Object Pool, Event Based, Template Method, Entry Point, Services, Service Locator, Dependency Injection, and Scriptable Objects.]
+### Backend Development (ASP.NET Core)
+- **RESTful APIs with ASP.NET Core Web API**
+- **Authentication:** JWT, Identity
+- **Architecture:** Clean Architecture, CQRS, Repository Pattern, Unit of Work
+- **Data:** EF Core, Dapper, PostgreSQL, Elasticsearch
+- **Concepts:** Middleware, Filters, Logging, Rate Limiting, Pagination
+- **Principles:** ACID transactions, indexing, normalization (1NF–4NF)
 
-I actively use third-party tools and plugins including: DOTween, UniTask, Shader Graph, AssetBundles, Addressables, DOTS, NetCode
-#
+### Low-Level / Performance Engineering
+- **Custom data structures** (e.g. unsafe collections, memory-efficient containers)
+- **Work with unsafe C# and low-level memory management**
+- **Performance-oriented design and data-oriented programming**
+- **Custom engine systems and internal tooling**
+- **Focus on reducing allocations and improving runtime efficiency**
 
-### My Tech Stack:
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
-#
+### Tech Stack
+- `C#`, `Low-level`, `.NET`, `ASP.NET Core`
+- `PostgreSQL`, `SQL`, `Elasticsearch`
+- `Unity Engine`, `Nova Engine`
+- `Docker`
 
-
-### My Tools:
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
-![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white) 
-#
-
-
-### My Operating System:
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-#
+**I like building systems that balance high-level architecture and low-level performance, from backend APIs to game engines and custom runtime systems.**
 <!--
 **Woolction/Woolction** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
