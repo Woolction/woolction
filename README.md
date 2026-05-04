@@ -17,7 +17,7 @@ Singleton, Factory, Observer, State, Strategy, Object Pool, Event-based systems,
 - **Architecture:** Clean Architecture, CQRS, Repository Pattern, Unit of Work
 - **Data:** EF Core, Dapper, PostgreSQL, Elasticsearch
 - **Concepts:** Middleware, Filters, Logging, Rate Limiting, Pagination
-- **Principles:** ACID transactions, indexing, normalization (1NF–4NF)
+- **Principles:** OOP, Solid, ACID transactions, indexing, normalization (1NF–4NF)
 
 #### Low-Level / Performance Engineering
 - **Custom data structures** (e.g. unsafe collections, memory-efficient containers)
